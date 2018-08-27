@@ -1,0 +1,77 @@
+
+body{
+  background-image:url(circles-light.png);
+}
+
+#linkedin{
+  font-size: 1.5em;
+  padding-top: 10px;
+}
+#img {
+  width : 75%;
+  height: 75%;
+  /* display: block; */
+  margin: auto;
+  border-radius: 50%
+
+}
+
+hr{
+  border-color: black;
+}
+
+.big-info{
+  border-radius: 50%;
+  margin-top: 25px;
+}
+
+.jumbotron{
+  width: 75%;
+  margin:auto;
+  border-radius: 6px;
+  border: 2px solid black;
+}
+
+nav{
+  margin:auto;
+  margin-top: 10px;
+}
+
+
+.header{
+  width: 75%;
+  margin:auto;
+
+}
+
+.projects{
+  width:75%;
+  margin: auto;
+
+}
+.project-text{
+  margin:auto;
+
+  border: 2px solid black;
+  border-radius: 6px;
+  background-color: #eee;
+  padding-top:50px;
+  padding-bottom: 50px;
+}
+
+h3{
+  width:75%;
+  margin: auto;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+#desc{
+  width: 90%;
+}
+
+p{
+  width: 75%;
+  margin: auto;
+  text-align: justify;
+}
